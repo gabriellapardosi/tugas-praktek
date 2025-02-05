@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-, "katalog/katalog/app/hairstyle.tsx", "katalog/katalog/app/index.js"  ]
+, "app/hairstyle.tsx", "app/index.js"  ]
 }
